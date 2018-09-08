@@ -1,0 +1,12 @@
+{
+  "name": "vue-tiny-datatable",
+  "version": "0.1.0",
+  "description": "Display array in a responsive table.",
+  "main": "vue-tiny-datatable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Damian Balandowski (balandowski@icloud.com)",
+  "license": "ISC"
+}
